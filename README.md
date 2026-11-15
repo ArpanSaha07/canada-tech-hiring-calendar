@@ -96,7 +96,3 @@ Know a verified internship window? Open a pull request or issue with:
 
 This is an independent community project. It is not affiliated with the listed employers. Recruitment timelines can change without notice. Verify all eligibility criteria and submission deadlines directly before applying.
 
-## License
-
-Consider adding a `LICENSE` file (for example, MIT for code, or CC BY 4.0 for the curated dataset and documentation) before accepting contributions.
-
