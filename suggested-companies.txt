@@ -1,0 +1,5 @@
+* Banks, insurers and other financial firms: TD, RBC, Scotiabank, BMO, CIBC, Desjardins, National Bank, Manulife, Sun Life, Intact, Questrade, Wealthsimple
+* Consulting and IT services: Deloitte, IBM, Accenture, KPMG, PwC, EY, CGI, Capgemini
+* Global tech companies with Canadian offices: Amazon, Microsoft, Google, Meta, Apple, Salesforce, Oracle, SAP, Cisco, Intel, AMD, NVIDIA, Ericsson, Nokia
+* Canadian tech companies: Shopify, OpenText, Ciena, Kinaxis, Constellation Software, Lightspeed, Coveo, Clio, Hootsuite, FreshBooks, D2L, Wave, Wattpad, Ritual, Thomson Reuters
+* Telecom, gaming, aerospace, retail and utilities: Telus, Rogers, Bell, Ubisoft, EA, Bombardier, CAE, Air Canada, Hydro-Québec, Loblaw Digital, Canadian Tire
